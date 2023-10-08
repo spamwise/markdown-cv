@@ -39,7 +39,6 @@ __Staff Engineer__
 ### Dropbox
 `Oct 2016-Sep 2020`
 __Senior Software Engineer__
-Desktop client engineer, responsible for developing new features and driving platform improvements in multi-functional teams. Projects included:
  - Significant contributions to static typing efforts (TypeScript and mypy)
  - Custom-built USB device emulator to enable integration testing of Desktop Camera Upload feature
  - Cross-format file deduplication logic to handle the rollout of the HEIF format on iOS
