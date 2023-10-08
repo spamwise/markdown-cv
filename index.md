@@ -14,7 +14,8 @@ Software Engineer
 Software engineer generalist with two decades of industry experience.  Passionate about solving interesting problems, building talent, designing clean and consistent interfaces, and leaving code in better shape than I found it in.
 
 ### Languages
-_(in rough order of preference)_ Python, TypeScript, C++, Rust, Go, Perl, PHP
+`in rough order of preference`
+Python, TypeScript, C++, Rust, Go, Perl, PHP
 
 ## Experience
 
@@ -60,7 +61,6 @@ __Server Developer and Tech Lead__
  - Mentoring and supporting team members across every part of the company
  - Community involvement as a conference presenter, blog author, and forum moderator
 
-### Perforce Software
 `Jun 2003-Mar 2010`
 __Technical Support Engineer, Product Advocate, Client Developer__
  - Technical support across all tiers, ranging from end users at customer sites to senior engineers within the company
@@ -69,7 +69,6 @@ __Technical Support Engineer, Product Advocate, Client Developer__
  - Weekly review and triage of all bugs and requests for the server to make requests as actionable as possible and identify opportunities for development to have the greatest impact
  - Regular conference presenter
 
-### Perforce Software
 `Jun 1999-Jun 2003`
 __Intern__
  - Front line technical support
