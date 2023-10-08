@@ -30,12 +30,13 @@ __Contractor__
  - Developed no-code framework to configure new data sources based on common patterns in existing sources
 
 ### Even
-__Engineering Manager__
 `Apr 2021-Nov 2021`
+__Engineering Manager__
  - Assembled and managed the Employer Platform team to develop and maintain a consistent platform for customer integrations.
+
 ### Even
-__Staff Engineer__
 `Oct 2020-Apr 2021`
+__Staff Engineer__
  - Worked on backend customer integration team to onboard new corporate customers.
  - Spearheaded migration of frontend code from Flow typechecker to TypeScript.
 
