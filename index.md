@@ -19,21 +19,23 @@ _(in rough order of preference)_ Python, TypeScript, C++, Rust, Go, Perl, PHP
 ## Experience
 
 ### Perforce Software
-`2022-present`
+`Oct 2022-present`
 __Principal Engineer__
  - Lending unique technical expertise to design and development of new features in a legacy codebase.
 
 ### SwerveLogic
-`2022`
+`Jun 2022-Sep 2022`
 __Contractor__
  - Added static typing and automated tests to bespoke data ingestion scripts
  - Developed no-code framework to configure new data sources based on common patterns in existing sources
 
 ### Even
-`2020-2021`
-__Engineering Manager__
+
+#### Engineering Manager
+`Apr 2021-Nov 2021`
  - Assembled and managed the Employer Platform team to develop and maintain a consistent platform for customer integrations.
-__Staff Engineer__
+#### Staff Engineer
+`Oct 2020-Apr 2021`
  - Worked on backend customer integration team to onboard new corporate customers.
  - Spearheaded migration of frontend code from Flow typechecker to TypeScript.
 
