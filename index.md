@@ -43,8 +43,15 @@ __Staff Engineer__
 ### Dropbox
 `2016-2020`
 __Senior Software Engineer__
+Desktop client engineer, responsible for developing new features and driving platform improvements in multi-functional teams. Projects included:
  - Significant contributions to static typing efforts (TypeScript and mypy)
- - Wrote USB device emulator framework to enable integration testing of Desktop Camera Upload feature
+ - Custom-built USB device emulator to enable integration testing of Desktop Camera Upload feature
+ - Cross-format file deduplication logic to handle the rollout of the HEIF format on iOS
+ - Kernel extension permissioning UI to improve adoption of on-demand file syncing
+ - Design of strongly-typed bridge APIs between Python app code and Rust engine code to improve developer experience
+ - Generic API metrics framework to provide insight into internal API performance and usage across all functions
+ - Regular group onboarding classes to teach new hires how to work effectively in the desktop codebase
+ - Individual mentoring/apprenticeship for new hires with a wide range of prior experience
 
 
 ## Education
