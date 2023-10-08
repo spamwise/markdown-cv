@@ -34,7 +34,6 @@ __Contractor__
 __Engineering Manager__
  - Assembled and managed the Employer Platform team to develop and maintain a consistent platform for customer integrations.
 
-### Even
 `Oct 2020-Apr 2021`
 __Staff Engineer__
  - Worked on backend customer integration team to onboard new corporate customers.
