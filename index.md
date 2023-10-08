@@ -13,10 +13,6 @@ Software Engineer
 ## Summary
 Software engineer generalist with two decades of industry experience.  Passionate about solving interesting problems, building talent, designing clean and consistent interfaces, and leaving code in better shape than I found it in.
 
-### Languages
-`in rough order of preference`
-Python, TypeScript, C++, Rust, Go, Perl, PHP
-
 ## Experience
 
 ### Perforce Software
@@ -66,7 +62,7 @@ __Technical Support Engineer, Product Advocate, Client Developer__
  - Technical support across all tiers, ranging from end users at customer sites to senior engineers within the company
  - Skunkworks development of many internal tools, open source tools, and one released client product ([Revision Graph](https://www.perforce.com/manuals/p4v/Content/P4V/advanced_files.revgraph.html))
  - Author and reviewer for most of our C++ API documentation
- - Weekly review and triage of all bugs and requests for the server to make requests as actionable as possible and identify opportunities for development to have the greatest impact
+ - Weekly review and triage of all bugs and requests for the core product, seeking opportunities to maximize impact
  - Regular conference presenter
 
 `Jun 1999-Jun 2003`
