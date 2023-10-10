@@ -16,14 +16,14 @@ Software engineer generalist with two decades of industry experience.  Passionat
 ## Experience
 
 ### Perforce Software
-`Oct 2022-
- present`
+`Oct 2022-`
+`present`
 __Principal Engineer__
  - Lending unique technical expertise to design and development of new features in a legacy codebase.
 
 ### SwerveLogic
-`Jun 2022-
- Sep 2022`
+`Jun 2022-`
+`Sep 2022`
 __Contractor__
  - Added static typing and automated tests to bespoke data ingestion scripts
  - Developed no-code framework to configure new data sources based on common patterns in existing sources
@@ -34,15 +34,15 @@ __Contractor__
 __Engineering Manager__
  - Assembled and managed the Employer Platform team to develop and maintain a consistent platform for customer integrations.
 
-`Oct 2020-
- Apr 2021`
+`Oct 2020-`
+`Apr 2021`
 __Staff Engineer__
  - Worked on backend customer integration team to onboard new corporate customers.
  - Spearheaded migration of frontend code from Flow typechecker to TypeScript.
 
 ### Dropbox
-`Oct 2016-
- Sep 2020`
+`Oct 2016-`
+`Sep 2020`
 __Senior Software Engineer__
  - Significant contributions to static typing efforts (TypeScript and mypy)
  - Custom-built USB device emulator to enable integration testing of Desktop Camera Upload feature
@@ -54,16 +54,16 @@ __Senior Software Engineer__
  - Individual mentoring/apprenticeship for new hires with a wide range of prior experience
 
 ### Perforce Software
-`Mar 2010-
- Sep 2016`
+`Mar 2010-`
+`Sep 2016`
 __Server Developer and Tech Lead__
  - C++ server/API developer and designer
  - Sole designer, author, and tester of a full rewrite of our merge base selection algorithm ([white paper](https://workshop.perforce.com/files/guest/sam_stafford/doc/Base%20Picking.pdf))
  - Mentoring and supporting team members across every part of the company
  - Community involvement as a conference presenter, blog author, and forum moderator
 
-`Jun 2003-
- Mar 2010`
+`Jun 2003-`
+`Mar 2010`
 __Technical Support Engineer, Product Advocate, Client Developer__
  - Technical support across all tiers, ranging from end users at customer sites to senior engineers within the company
  - Skunkworks development of many internal tools, open source tools, and one released client product ([Revision Graph](https://www.perforce.com/manuals/p4v/Content/P4V/advanced_files.revgraph.html))
@@ -81,16 +81,16 @@ __Intern__
  - Brief role as head of Quality Assurance, triaging bug reports and writing test plans for new products
 
 ### Exploratorium
-`Jun 1998-
- Aug 1999`
+`Jun 1998-`
+`Aug 1999`
 __High School Explainer__
  - Facilitating fun and educational experiences for visitors of all ages
  - Daily live demos on subjects including biology, electromagnetism, and optics
 
 ## Education
 
-`1999-
- 2003`
+`1999-`
+`2003`
 __University of California at Berkeley__
  - Bachelor of Science in Electrical Engineering and Computer Science (CS focus)
 
