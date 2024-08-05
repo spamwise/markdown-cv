@@ -11,14 +11,19 @@ Software Engineer
 </div>
 
 ## Summary
-Software engineer generalist with two decades of industry experience.  Passionate about solving interesting problems, building talent, designing clean and consistent interfaces, and leaving code in better shape than I found it in.
+Software engineer generalist with over two decades of industry experience.  Passionate about solving interesting problems, building talent, designing clean and consistent interfaces, and leaving code in better shape than I found it in.
 
 ## Experience
 
+### Rippling
+`2024-`
+__Senior Software Engineer__
+ - Time Products development
+
 ### Perforce Software
-`2022-now`
+`2022-2024`
 __Principal Engineer__
- - Lending unique technical expertise to design and development of new features in a legacy codebase.
+ - Brought unique technical expertise to design and development of new features in a legacy codebase.
 
 ### SwerveLogic
 `2022`
@@ -38,7 +43,7 @@ __Staff Engineer__
 
 ### Dropbox
 `2016-2020`
-__Senior Software Engineer__
+__Software Engineer__
  - Significant contributions to static typing efforts (TypeScript and mypy)
  - Custom-built USB device emulator to enable integration testing of Desktop Camera Upload feature
  - Cross-format file deduplication logic to handle the rollout of the HEIF format on iOS
